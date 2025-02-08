@@ -2180,6 +2180,63 @@ bg: &DEFAULT_BG
 bg-BG:
   <<: *DEFAULT_BG
 
+# Croatian
+# -----------------
+en: &DEFAULT_HR
+  skip_links                 : "Preskoči linkove"
+  skip_primary_nav           : "Preskoči na osnovni meni"
+  skip_content               : "Preskoči na sadržaj"
+  skip_footer                : "Preksoči na podnožje"
+  page                       : "Stranica"
+  pagination_previous        : "Prethodna"
+  pagination_next            : "Slijedeća"
+  breadcrumb_home_label      : "Početna"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Uključi/isključi meni"
+  search_label               : "Uključi/isključi pretraživanje"
+  toc_label                  : "Sadržaj stranice"
+  ext_link_label             : "Direktni link"
+  less_than                  : "manje od"
+  minute_read                : "minute/a čitanja"
+  share_on_label             : "Podijeli na"
+  meta_label                 :
+  tags_label                 : "Oznake:"
+  categories_label           : "Kategorije:"
+  date_label                 : "Ažurirano:"
+  comments_label             : "Ostavite komentar"
+  comments_title             : "Komentar"
+  more_label                 : "Više"
+  related_label              : "Također bi vas moglo zanimati"
+  follow_label               : "Pratite nas:"
+  feed_label                 : "RSS"
+  powered_by                 : "Powered by"
+  website_label              : "Web stranica"
+  email_label                : "Email"
+  recent_posts               : "Nedavne objave"
+  undefined_wpm              : "Nije definiran parametar words_per_minute u _config.yml"
+  comment_form_info          : "Vaša email adresa neće biti objavljena. Obavezna polja su označena"
+  comment_form_comment_label : "Komentar"
+  comment_form_md_info       : "Podržan je Markdown."
+  comment_form_name_label    : "Ime"
+  comment_form_email_label   : "Email adresa"
+  comment_form_website_label : "Web stranica (opcionalno)"
+  comment_btn_submit         : "Pošalji komentar"
+  comment_btn_submitted      : "Poslano"
+  comment_success_msg        : "Zahvaljujemo na komentaru! Biti će prikazan na stranici nakon što bude odobren."
+  comment_error_msg          : "Žao nam je, došlo je do greške prilikom predaje komentara. Provjerite jeste li popunili sva obavezna polja i pokušajete ponovno."
+  loading_label              : "Učitavanje u tijeku..."
+  search_label_text          : "Unesite pojam za pretraživanje..."
+  search_placeholder_text    : "Unesite pojam za pretraživanje..."
+  search_algolia_no_results  : "Nema rezultata"
+  results_found              : "Rezultat(a) pronađeno"
+  back_to_top                : "Povratak na vrh"
+# Added for mikrotron.hr project:
+  contact_label              : "Kontakt"
+hr-HR:
+  <<: *DEFAULT_HR
+hr-BA:
+  <<: *DEFAULT_HR
+
 # Another locale
 # --------------
 #
