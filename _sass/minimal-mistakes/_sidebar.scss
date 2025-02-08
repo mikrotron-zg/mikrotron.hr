@@ -157,8 +157,12 @@
   }
 
   a {
-    color: inherit;
+    color: $link-color;
     text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
   }
 }
 

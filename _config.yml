@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Mikrotron d.o.o."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Izrada mehatroničkih i elektroničkih projekata po narudžbi, održavanje i servis 3D printera, web shop s DIY elektroničkim komponentama za makere i sve one koji se tako osjećaju."
+  bio              : "Osnovne djelatnosti:\r - izrada mehatroničkih i elektroničkih projekata baziranih na **Arduino/ESP32/Raspberry Pi** platformi.\r - **[diykits.eu](https://diykits.eu)** web shop s DIY elektroničkim komponentama i 3D print opremom za makere i sve one koji se tako osjećaju."
   location         : # "Zagreb, Pakoštanska 5 K2-9"
   email            : #"mikrotron@mikrotron.hr"
   links:
