@@ -97,6 +97,7 @@
         pointer-events: none;
         cursor: not-allowed;
       }
+
     }
 
     &:first-child {
@@ -254,6 +255,10 @@
         -webkit-transform: scaleX(1);
         -ms-transform: scaleX(1);
         transform: scaleX(1); // reveal
+      }
+
+      i {
+        color: $primary-color;
       }
     }
   }

@@ -1,12 +1,18 @@
 # main links
 main:
+  - title: "Početna"
+    url: /
+    icon: "fas fa-house"
+  - title: "O nama"
+    url: /about/
+    icon: "fas fa-microchip"
+  - title: "Projekti"
+    url: /projects/
+    icon: "fas fa-robot"
+  - title: "Arhiva"
+    url: /archive/
+    icon: "fas fa-folder"
   - title: "Web shop"
     url: https://diykits.eu
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    icon: "fas fa-cart-shopping"
+
