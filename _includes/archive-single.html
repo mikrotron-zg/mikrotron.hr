@@ -25,6 +25,12 @@
       {% endif %}
     </h2>
     {% include page__meta.html type=include.type %}
+    {% if include.type == entries_layout and teaser %}
+      <div class="archive__item-teaser">
+        <img src="{{ teaser | relative_url }}" alt="">
+      </div>
+      &nbsp;
+    {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
 </div>
