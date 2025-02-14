@@ -3,7 +3,8 @@ title: "E-polica"
 excerpt: "Jedan od naših prvih projekata iz područja automatske promjene naziva i cijene robe u maloprodaji"
 header:
   teaser: assets/img/e-polica_kit.jpg
-last_modified_at: 2015-12-01T00:00:00+01:00
+developed_by: Josip Almaši
+last_modified_at: 2016-03-02T20:00:00+01:00
 ---
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/img/e-polica_kit.jpg){: .align-center}

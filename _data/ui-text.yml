@@ -2232,6 +2232,7 @@ en: &DEFAULT_HR
   back_to_top                : "Povratak na vrh"
 # Added for mikrotron.hr project:
   contact_label              : "Kontakt"
+  developed_by               : "Razvoj:"
 hr-HR:
   <<: *DEFAULT_HR
 hr-BA:
