@@ -168,6 +168,9 @@ footer:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCtno71tFuihBRgK6D31gJJQ"
+    - label: "TikTok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "https://www.tiktok.com/@mikrotron"
 
 # Reading Files
 include:
