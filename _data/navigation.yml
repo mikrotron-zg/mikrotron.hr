@@ -9,9 +9,9 @@ main:
   - title: "Projekti"
     url: /projects/
     icon: "fas fa-robot"
-  - title: "Arhiva"
-    url: /archive/
-    icon: "fas fa-folder"
+  - title: "Galerija"
+    url: /gallery/
+    icon: "fas fa-image"
   - title: "Web shop"
     url: https://diykits.eu
     icon: "fas fa-cart-shopping"
