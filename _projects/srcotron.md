@@ -12,7 +12,7 @@ last_modified_at: 2016-11-06T20:00:00+01:00
 Srcotron omogućuje mjerenje EKG signala pomoću Olimex EKG-EMG shielda i Arduino UNO platforme. Ovo je najjeftinije moguće rješenje za mjerenje i snimanje EKG signala u kućnoj radinosti. Napisali smo i *Python* skriptu koja će na računalu napraviti vizualizaciju signala, baš kao pravi EKG uređaj! Kompletni kod ovog rješenja objavljen je kao open source na [githubu](https://github.com/mikrotron-zg/srcotron).
 
 {% capture fig_img %}
-![image-center]({{ '/assets/img/srcotron.png' | relative_url }})
+![image-center]({{ '/assets/img/srcotron.png' | absolute_url }})
 {% endcapture %}
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
