@@ -35,7 +35,7 @@ gallery:
     image_path: /assets/img/gallery/disco.jpg
     alt: "disco"
     title: "Disco mood"
-  - url: /assets/img/gallery/autotron_zero.jpg
+  - url: /assets/img/autotron_zero.jpg
     image_path: /assets/img/autotron_zero.jpg
     alt: "autotron zero"
     title: "Autotron Zero i dodatna oprema"
@@ -47,7 +47,7 @@ gallery:
     image_path: /assets/img/gallery/pw_kit.jpg
     alt: "navodnjavanje"
     title: "Biljke pod kontrolom"
-  - url: /assets/img/gallery/macrotron.jpg
+  - url: /assets/img/macrotron.jpg
     image_path: /assets/img/macrotron.jpg
     alt: "tipkovnica u mraku"
     title: "Tipkovnica u mraku"
