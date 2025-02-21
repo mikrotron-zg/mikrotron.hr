@@ -19,7 +19,7 @@ Copymaster3D poznat je po svojim Voron 3D printer kitovima, ali u zadnje vrijeme
 {% capture fig_img %}
 ![flex 95a]({{ '/assets/img/posts/copymaster3d-flex.jpg' | absolute_url }})
 {% endcapture %}
-<figure class="align-left" style="margin-top: 0; margin-bottom: 0;">
+<figure class="align-left" style="margin-top: 0.4em; margin-bottom: 0;">
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Copymaster3D Flex 95A</figcaption>
 </figure>
@@ -29,7 +29,7 @@ Na prvom mjestu je definitivno [FLEX 95A](https://www.diykits.eu/products/p_1261
 {% capture fig_img %}
 ![glow in the dark]({{ '/assets/img/posts/copymaster3d-glow.jpg' | absolute_url }})
 {% endcapture %}
-<figure class="align-right" style="margin-top: 0; margin-bottom: 0;">
+<figure class="align-right" style="margin-top: 0.4em; margin-bottom: 0;">
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Copymaster3D Glow in the Dark</figcaption>
 </figure>
@@ -39,7 +39,7 @@ Idući je tzv. *Glow in the Dark* filament koji na dnevnom svjetlu nije ništa s
 {% capture fig_img %}
 ![petg]({{ '/assets/img/posts/copymaster3d-petg.jpg' | absolute_url }})
 {% endcapture %}
-<figure class="align-left" style="margin-top: 0; margin-bottom: 0;">
+<figure class="align-left" style="margin-top: 0.4em; margin-bottom: 0;">
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Copymaster3D PETG</figcaption>
 </figure>
