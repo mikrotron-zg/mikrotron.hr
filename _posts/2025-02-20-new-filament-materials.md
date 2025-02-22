@@ -14,7 +14,7 @@ tags:
 {% capture fig_img %}
 ![filament spools and prints]({{ '/assets/img/posts/petg_cf_ptfe.jpg' | absolute_url }})
 {% endcapture %}
-<figure>
+<figure style="margin-top: 0.4em; margin-bottom: 0;">
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Foto: FiberLab S.A.</figcaption>
 </figure>
@@ -24,7 +24,7 @@ U zadnje vrijeme proizvođači filamenata sve češće na tržište izbacuju kom
 {% capture fig_img %}
 ![petg + cf print sample]({{ '/assets/img/posts/petg_cf_print.jpg' | absolute_url }})
 {% endcapture %}
-<figure class="align-left" style="margin-top: 0;">
+<figure class="align-left" style="margin-top: 0.4em; margin-bottom: 0; width: 300px;">
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Foto: FiberLab S.A.</figcaption>
 </figure>
@@ -36,7 +36,7 @@ Druga zanimljiva mješavina je (opet) PETG i 10% PTFE-a ([PETG+PTFE](https://www
 {% capture fig_img %}
 ![petg + ptfe print sample]({{ '/assets/img/posts/petg_ptfe_print.jpg' | absolute_url }})
 {% endcapture %}
-<figure>
+<figure style="margin-top: 0.4em; margin-bottom: 0;">
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Foto: FiberLab S.A.</figcaption>
 </figure>
